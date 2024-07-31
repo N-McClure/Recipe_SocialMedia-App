@@ -1,0 +1,42 @@
+.sideBarContainer {
+    width: auto;
+    height: 100%;
+    width: 100%;
+    border: 1px solid #555;
+    background: rgb(252, 236, 207);
+    color: rgb(95, 56, 30);
+  }
+
+  .sideBarContainer mat-drawer{
+    background-color: rgb(95, 56, 30);
+    color: wheat;
+    width: 20%;
+    padding: 2%;
+  }
+
+  .sideBarContainer mat-card{
+    height: 50%;
+    color: white;
+  }
+
+  .sideBarContainer input{
+    height: 30px;
+    border-radius: 5%;
+    padding: 2%;
+    margin-right: 1%;
+    width: 70%;
+    background-color: wheat;
+  }
+
+  .sideBarContainer button{
+    background-color: wheat;
+    color:rgb(95, 56, 30);
+    height: 35px;
+    width: 35px;
+    border-radius: 5%;
+
+  }
+
+  .sideBarContainer button:hover, .sideBarContainer input:hover{
+   background-color: white; 
+  }

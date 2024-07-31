@@ -25,3 +25,19 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+    Project Name: recipe Social Media App (Name = TBD)
+
+    Project Version: mk_1
+
+    Project Description: A Social-Media-esque app where users can share, save, like, and comment on recipes. Kinda like "Pinterest" but with an "Instagram" styled UI/Layout.
+    
+    Date Started: 2022-07-24
+    Date Finished: 
+
+    Developer Name: Nick McClure
+    Portfolio / Personal Site: https://n-mcclure.github.io/
+    GitHub: https://github.com/N-McClure
+    LinkedIn: https://www.linkedin.com/in/nick-mcclure-578565295/
+    YouTube: https://www.youtube.com/@NickMcClure_ProgrammingGuy
+    Blog: https://n-mcclure004.livejournal.com/

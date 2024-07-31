@@ -1,0 +1,27 @@
+List of Components:
+===================
+
+    - Side-Bar
+    - Header / Nav-Bar
+    - Post
+    - User Bio / Profile
+    - Add new post button
+    - Footer
+    - Feed
+    - Saved Posts aka: "Recipe card box"
+
+-------------------------------------------------
+
+App Name Ideas:
+===============
+
+    - Food-E
+    - Recipe Share
+    - RecipeBook
+
+-------------------------------------------------
+
+Colour Pallette Ideas:
+======================
+
+    - Coffee
