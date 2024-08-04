@@ -11,13 +11,15 @@ import {FormsModule} from '@angular/forms';
 import { SidebarComponent } from './sidebar/sidebar.component';
 import { FooterComponent } from './footer/footer.component';
 import { NavbarComponent } from './navbar/navbar.component';
+import { LoginAndSignupComponent } from './login-and-signup/login-and-signup.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     SidebarComponent,
     FooterComponent,
-    NavbarComponent
+    NavbarComponent,
+    LoginAndSignupComponent
   ],
   imports: [
     BrowserModule,

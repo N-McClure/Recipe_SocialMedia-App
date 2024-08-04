@@ -1,14 +1,15 @@
 List of Components:
 ===================
 
+    - Header with App Logo and App Name
     - Side-Bar
-    - Header / Nav-Bar
+    - Main App Nav-Bar
     - Post
     - User Bio / Profile
-    - Add new post button
     - Footer
     - Feed
     - Saved Posts aka: "Recipe card box"
+    - Log In / Sign Up Pages
 
 -------------------------------------------------
 
@@ -18,6 +19,7 @@ App Name Ideas:
     - Food-E
     - Recipe Share
     - RecipeBook
+    - Yes Chef!
 
 -------------------------------------------------
 
