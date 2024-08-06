@@ -1,0 +1,34 @@
+#signupForm .viewInputtedPw {
+    background-color: rgb(95, 56, 30);
+    color: wheat;
+    height: 35px;
+    width: 35px;
+    border-radius: 5%;
+}
+
+#signupForm input {
+    background-color: wheat;
+    color: rgb(95, 56, 30);
+    height: 35px;
+    width: 40%;
+    border-radius: 5%;
+    margin-right: 2%;
+}
+
+#signupForm label {
+    font-size: large;
+    padding-right: 2%;
+    justify-items: left;
+}
+
+#signupForm .submitSignup{
+    background-color: rgb(95, 56, 30);
+    color: wheat;
+    height: 35px;
+    width: 15%;
+}
+
+#signupForm button:hover, #signupForm input:hover{
+    background-color: white; 
+    color: rgb(95, 56, 30);
+}

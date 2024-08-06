@@ -1,0 +1,35 @@
+#loginForm .viewInputtedPw {
+    background-color: rgb(95, 56, 30);
+    color: wheat;
+    height: 35px;
+    width: 35px;
+    border-radius: 5%;
+}
+
+#loginForm input {
+    background-color: wheat;
+    color: rgb(95, 56, 30);
+    height: 35px;
+    width: 40%;
+    border-radius: 5%;
+    margin-right: 2%;
+}
+
+#loginForm label {
+    font-size: large;
+    padding-right: 2%;
+    justify-items: left;
+}
+
+#loginForm .submitLogin {
+    background-color: rgb(95, 56, 30);
+    color: wheat;
+    height: 35px;
+    width: 15%;
+}
+
+#loginForm button:hover,
+#loginForm input:hover {
+    background-color: white;
+    color: rgb(95, 56, 30);
+}
