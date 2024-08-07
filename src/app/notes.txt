@@ -10,16 +10,18 @@ List of Components:
     - Feed
     - Saved Posts aka: "Recipe card box"
     - Log In / Sign Up Pages
+    - Logo
 
 -------------------------------------------------
 
 App Name Ideas:
 ===============
 
-    - Food-E
+    - Food-E ==> Selected as App Name 11:20pm on 2024-08-06
     - Recipe Share
     - RecipeBook
     - Yes Chef!
+    - Recip-E-Book
 
 -------------------------------------------------
 
