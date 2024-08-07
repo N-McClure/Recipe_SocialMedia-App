@@ -1,4 +1,4 @@
-# RecipeSocialMediaApp
+# Food-E : A social media application for recipes and food lovers.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.10.
 
