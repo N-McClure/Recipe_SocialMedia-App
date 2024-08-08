@@ -15,6 +15,7 @@ import { LoginAndSignupComponent } from './login-and-signup/login-and-signup.com
 import { SignupComponent } from './signup/signup.component';
 import { LoginComponent } from './login/login.component';
 import { LogoComponent } from './logo/logo.component';
+import { ProfileComponent } from './profile/profile.component';
 
 @NgModule({
   declarations: [
@@ -25,7 +26,8 @@ import { LogoComponent } from './logo/logo.component';
     LoginAndSignupComponent,
     SignupComponent,
     LoginComponent,
-    LogoComponent
+    LogoComponent,
+    ProfileComponent
   ],
   imports: [
     BrowserModule,

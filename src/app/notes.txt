@@ -5,7 +5,7 @@ List of Components:
     - Side-Bar
     - Main App Nav-Bar
     - Post
-    - User Bio / Profile
+    - User Bio / Profile aka: "Recipe Book"
     - Footer
     - Feed
     - Saved Posts aka: "Recipe card box"
